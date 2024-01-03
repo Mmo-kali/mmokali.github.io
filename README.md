@@ -1,14 +1,18 @@
 # CyberSecurity Portfolio
 
 # PROFILE
+### -------------------------------------------------------------------
 As a passionate Cyber Security student, I thrive as a dedicated team player, demonstrating proven leadership abilities alongside effective communication skills. I am eager to leverage my talents and learning journey to contribute meaningfully within the Cyber Security realm.I've been doing everything I can to improve my skills and gainexposure, and have produced and released content(see below). Thank you for reviewing my portfolio
 
 # EDUCATION
+### -------------------------------------------------------------------
 ### Honours Bachelor of Information Sciences (Cyber Security) Sheridan College           2022 – 2026| Oakville,canada
 4/4 Professional Cumulative GPA
 Entrance Scholarship recipient
 
 # SKILLS
+### -------------------------------------------------------------------
+
 • Knowledge of basic networking concepts (e.g. OSI model, TCP/IP, Wi-Fi)
 
 • Proficiency with Python, C/C++, Linux and SQL
@@ -20,6 +24,7 @@ Entrance Scholarship recipient
 • Excellent customer service skills with the ability to maintain a professional demeanor at all times.
 
 # PROJECTS AND PUBLICATIONS(CYBERSECURITY & IT)
+### -------------------------------------------------------------------
 ### [Project 1 link: Vulnerability Management(Nessus)](https://mycyberstudies.blogspot.com/2023/01/Nessus-Vulnerability-Management.html)
 
 • Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
@@ -65,6 +70,7 @@ Entrance Scholarship recipient
 • Prints both the encrypted and decrypted versions of the input string for user verification.
 
 # PROFESSIONAL EXPERIENCE
+### -------------------------------------------------------------------
 ### Student Researcher                                                                     01/2024 - Present|Oakville,Canada
 Centre for Applied AI
 
