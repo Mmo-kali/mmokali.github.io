@@ -22,9 +22,14 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 # CERTIFICATES
 ### -------------------------------------------------------------------
 • Google Cybersecurity
+
 • Google Technical Support Fundamentals
+
 • Google The Bits and Bytes of Computer Networking
+
 • ISO/IEC 27001 Information Security Management Systems Awareness On-demand Training Course
+
+• Actively working towards completing my Security+ certification
 
 
 # SKILLS
