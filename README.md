@@ -1,12 +1,19 @@
 # CyberSecurity Portfolio
 
+
+### Email: companioniorlando@gmail.com
+### Location: Toronto, Canada
+### Phone: 647-648-9773
+### Linkedin: www.linkedin.com/in/orlando-companioni
+
 # PROFILE
 ### -------------------------------------------------------------------
 As a passionate Cyber Security student, I thrive as a dedicated team player, demonstrating proven leadership abilities alongside effective communication skills. I am eager to leverage my talents and learning journey to contribute meaningfully within the Cyber Security realm.I've been doing everything I can to improve my skills and gainexposure, and have produced and released content(see below). Thank you for reviewing my portfolio
 
 # EDUCATION
 ### -------------------------------------------------------------------
-### Honours Bachelor of Information Sciences (Cyber Security) Sheridan College           2022 – 2026| Oakville,canada
+### Honours Bachelor of Information Sciences(CyberSecurity)
+### (Cyber Security) Sheridan College           2022 – 2026| Oakville,canada
 4/4 Professional Cumulative GPA
 Entrance Scholarship recipient
 
@@ -23,7 +30,7 @@ Entrance Scholarship recipient
 
 • Excellent customer service skills with the ability to maintain a professional demeanor at all times.
 
-# PROJECTS AND PUBLICATIONS(CYBERSECURITY & IT)
+# PROJECTS
 ### -------------------------------------------------------------------
 ### [Project 1 link: Vulnerability Management(Nessus)](https://mycyberstudies.blogspot.com/2023/01/Nessus-Vulnerability-Management.html)
 
