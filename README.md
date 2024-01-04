@@ -1,6 +1,5 @@
 # CyberSecurity Portfolio
 
-
 ### Email: companioniorlando@gmail.com
 ### Location: Toronto, Canada
 ### Phone: 647-648-9773
@@ -10,12 +9,23 @@
 ### -------------------------------------------------------------------
 As a passionate Cyber Security student, I thrive as a dedicated team player, demonstrating proven leadership abilities alongside effective communication skills. I am eager to leverage my talents and learning journey to contribute meaningfully within the Cyber Security realm.I've been doing everything I can to improve my skills and gainexposure, and have produced and released content(see below). Thank you for reviewing my portfolio
 
+
 # EDUCATION
 ### -------------------------------------------------------------------
-### Honours Bachelor of Information Sciences(CyberSecurity)
-### (Cyber Security) Sheridan College           2022 – 2026| Oakville,canada
-4/4 Professional Cumulative GPA
-Entrance Scholarship recipient
+### Honours Bachelor of Information Sciences (CyberSecurity)
+### Sheridan College           2022 – 2026| Oakville,canada
+
+• 4/4 Professional Cumulative GPA
+
+• Entrance Scholarship recipient
+
+# CERTIFICATES
+### -------------------------------------------------------------------
+• Google Cybersecurity
+• Google Technical Support Fundamentals
+• Google The Bits and Bytes of Computer Networking
+• ISO/IEC 27001 Information Security Management Systems Awareness On-demand Training Course
+
 
 # SKILLS
 ### -------------------------------------------------------------------
@@ -67,7 +77,7 @@ Entrance Scholarship recipient
 
 • The program accurately counted and displayed the number of palindrome words found within the input sentence.
 
-### [Project 4 Link: Encrypt and Decrypt in 8086 Assembly](https://github.com/OrlandoCompC/8086-Encryption-of-Word)
+### [Project 5 Link: Encrypt and Decrypt in 8086 Assembly](https://github.com/OrlandoCompC/8086-Encryption-of-Word)
 • Developed an assembly program in 8086 architecture to encrypt and decrypt user-input strings based on a specified key value.
 
 • Leverages memory manipulation to read user input, encrypt, and decrypt strings.
