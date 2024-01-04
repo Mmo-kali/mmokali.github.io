@@ -7,7 +7,7 @@
 
 # PROFILE
 ### -------------------------------------------------------------------
-As a passionate Cyber Security student, I thrive as a dedicated team player, demonstrating proven leadership abilities alongside effective communication skills. I am eager to leverage my talents and learning journey to contribute meaningfully within the Cyber Security realm.I've been doing everything I can to improve my skills and gainexposure, and have produced and released content(see below). Thank you for reviewing my portfolio
+As a passionate Cyber Security student, I thrive as a dedicated team player, demonstrating proven leadership abilities alongside effective communication skills. I am eager to leverage my talents and learning journey to contribute meaningfully within the Cyber Security realm.I've been doing everything I can to improve my skills and gain exposure, and have produced and released content(see below). Thank you for reviewing my portfolio
 
 
 # EDUCATION
