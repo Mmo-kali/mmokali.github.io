@@ -93,12 +93,15 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 
 # PROFESSIONAL EXPERIENCE
 ### -------------------------------------------------------------------
-### Student Researcher                                                                     01/2024 - Present|Oakville,Canada
-Centre for Applied AI
+### Centre for Applied AI
+Student Researcher                                                                     01/2024 - Present|Oakville,Canada
 
 
-### Coordinator                                                                          04/2016 – 08/2022|Toronto,Canada                                                                     
-QVA Renovations
+
+
+### QVA Renovations
+Coordinator                                                                          04/2016 – 08/2022|Toronto,Canada        
+
 • Supervised and coordinated contractor schedules; work orders and projects spread throughout multiple properties.
 
 • Managed budget for 3 projects valued at over $10,000 each.
