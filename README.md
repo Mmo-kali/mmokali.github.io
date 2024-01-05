@@ -1,4 +1,4 @@
-# CyberSecurity Portfolio
+# Welcome to my CyberSecurity Portfolio
 
 ### Email: companioniorlando@gmail.com
 ### Location: Toronto, Canada
@@ -30,6 +30,23 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 • ISO/IEC 27001 Information Security Management Systems Awareness On-demand Training Course
 
 • Actively working towards completing my Security+ certification
+
+# PROFESSIONAL EXPERIENCE
+### ---------------------------------------------------------------
+### Centre for Applied AI
+Student Researcher                                                                     01/2024 - Present|Oakville,Canada
+
+
+
+
+### QVA Renovations
+Coordinator                                                                          04/2016 – 08/2022|Toronto,Canada        
+
+• Supervised and coordinated contractor schedules; work orders and projects spread throughout multiple properties.
+
+• Managed budget for 3 projects valued at over $10,000 each.
+
+• Worked as leader on team of three project coordinators.
 
 
 # SKILLS
@@ -90,20 +107,3 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 • Employs XOR operations with a specific key value to transform characters for encryption and decryption.
 
 • Prints both the encrypted and decrypted versions of the input string for user verification.
-
-# PROFESSIONAL EXPERIENCE
-### ---------------------------------------------------------------
-### Centre for Applied AI
-Student Researcher                                                                     01/2024 - Present|Oakville,Canada
-
-
-
-
-### QVA Renovations
-Coordinator                                                                          04/2016 – 08/2022|Toronto,Canada        
-
-• Supervised and coordinated contractor schedules; work orders and projects spread throughout multiple properties.
-
-• Managed budget for 3 projects valued at over $10,000 each.
-
-• Worked as leader on team of three project coordinators.
