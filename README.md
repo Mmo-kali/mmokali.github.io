@@ -6,12 +6,12 @@
 ### Linkedin: www.linkedin.com/in/orlando-companioni
 
 # PROFILE
-### ---------------------------------------------------------------
+* * *
 As a passionate Cyber Security student, I thrive as a dedicated team player, demonstrating proven leadership abilities alongside effective communication skills. I am eager to leverage my talents and learning journey to contribute meaningfully within the Cyber Security realm.I've been doing everything I can to improve my skills and gain exposure, and have produced and released content(see below). Thank you for reviewing my portfolio
 
 
 # EDUCATION
-### ---------------------------------------------------------------
+* * *
 ### Honours Bachelor of Information Sciences (CyberSecurity)
 ### Sheridan College           2022 – 2026| Oakville,canada
 
@@ -20,7 +20,7 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 • Entrance Scholarship recipient
 
 # CERTIFICATES
-### ---------------------------------------------------------------
+* * *
 • Google Cybersecurity
 
 • Google Technical Support Fundamentals
@@ -32,7 +32,7 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 • Actively working towards completing my Security+ certification
 
 # PROFESSIONAL EXPERIENCE
-### ---------------------------------------------------------------
+* * *
 ### Centre for Applied AI
 Student Researcher                                                                     01/2024 - Present|Oakville,Canada
 
@@ -50,7 +50,7 @@ Coordinator                                                                     
 
 
 # SKILLS
-### ---------------------------------------------------------------
+* * *
 
 • Knowledge of basic networking concepts (e.g. OSI model, TCP/IP, Wi-Fi)
 
@@ -63,7 +63,7 @@ Coordinator                                                                     
 • Excellent customer service skills with the ability to maintain a professional demeanor at all times.
 
 # PROJECTS
-### ---------------------------------------------------------------
+* * *
 ### [Project 1 link: Vulnerability Management(Nessus)](https://mycyberstudies.blogspot.com/2023/01/Nessus-Vulnerability-Management.html)
 
 • Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts
