@@ -33,11 +33,11 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 
 # PROFESSIONAL EXPERIENCE
 * * *
-### Centre for Applied AI
+### Centre for Applied AI (Sheridan College CMI)
 Student Researcher                                                                     01/2024 - Present|Oakville,Canada
-
-
-
+• Partnered with fellow researchers on a research project titled “Objective Method for Diagnosis of Chronic Pain” in collaboration with Karmy Clinic
+• Conducted research on identifying pain through facial expressions using machine learning.
+• Worked in a diverse team of 6 researchers, fostering a collaborative environment to drive the project forward..
 
 ### QVA Renovations
 Coordinator                                                                          04/2016 – 08/2022|Toronto,Canada        
