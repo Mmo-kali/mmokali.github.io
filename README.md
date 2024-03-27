@@ -38,13 +38,34 @@ Student Researcher                                                              
 
 • Partnered with fellow researchers on a research project titled “Objective Method for Diagnosis of Chronic Pain” in collaboration with Karmy Clinic
 
-• Conducted research on identifying pain through facial expressions using machine learning.
+•  Conducted research on identifying Lying through facial expressions using machine learning.
 
-• Worked in a diverse team of 6 researchers, fostering a collaborative environment to drive the project forward..
+•  Assisted in the creation of a comprehensive dataset aimed at understanding human behavior, specifically focusing on truth-telling and lying.
+
+• Developed a deep learning model trained on this dataset, with the objective of accurately determining whether a subject was lying or telling the truth. This involved extensive work in model architecture design, training, and evaluation.
+
+• Worked in a diverse team of 6 researchers, fostering a collaborative environment to drive the project forward.
 
 • Leveraged C++ and Python to enhance the functionality and performance of the software.
 
 • Conducted comprehensive research on the software and related projects to deepen my understanding of the underlying technology and to identify innovative ideas for enhancing the software.
+
+### ISSessions
+CTF Developer                                                                      03/2024 - Present|Oakville,Canada      
+
+• Collaborated in a dynamic team of 6+ members to develop engaging and challenging Capture The Flag (CTF) events.
+
+• Contributed to the design, development, and deployment of CTF challenges, ensuring a balance of difficulty levels to cater to a wide range of participants.
+
+• Worked closely with team members to brainstorm, develop, and refine CTF challenges, fostering a collaborative and innovative work environment.
+
+• Leveraged my technical knowledge and creativity to design unique and engaging CTF challenges that tested a variety of skills and knowledge areas.
+
+• Developed challenges that not only tested participants’ skills but also engaged them on a deeper level, encouraging critical thinking and problem-solving.
+
+• Actively sought feedback from participants and used it to refine and improve future challenges, demonstrating my commitment to continuous learning and improvement.
+
+
 
 
 ### QVA Renovations
@@ -107,7 +128,18 @@ Coordinator                                                                     
 
 • The program accurately counted and displayed the number of palindrome words found within the input sentence.
 
-### [Project 5 Link: Encrypt and Decrypt in 8086 Assembly](https://github.com/OrlandoCompC/8086-Encryption-of-Word)
+### [Project 5 Link: Alternative Data Streams Forensics](https://mycyberstudies.blogspot.com/2024/01/alternative-data-streams.html)
+• Utilized FTK Imager, a digital forensics tool, for the investigation.
+
+• Explored the concept of ADS, a feature of NTFS file systems.
+
+• Identified hidden streams attached to files, often used by attackers to conceal malicious activity.
+
+• Uncovered a hidden stream that contained the password to a critical file.
+
+• Demonstrated the ability to use advanced forensics tools and methodologies.
+
+### [Project 6 Link: Encrypt and Decrypt in 8086 Assembly](https://github.com/OrlandoCompC/8086-Encryption-of-Word)
 • Developed an assembly program in 8086 architecture to encrypt and decrypt user-input strings based on a specified key value.
 
 • Leverages memory manipulation to read user input, encrypt, and decrypt strings.
@@ -115,3 +147,24 @@ Coordinator                                                                     
 • Employs XOR operations with a specific key value to transform characters for encryption and decryption.
 
 • Prints both the encrypted and decrypted versions of the input string for user verification.
+
+
+### [Project 7 Link: Disk Image Forensics](https://mycyberstudies.blogspot.com/2024/01/making-disk-image.html)
+• Conducted a detailed analysis of disk images using FTK Imager. Created and embedded files in a disk image, then verified their integrity by comparing hash values upon reopening,
+demonstrating proficiency in digital forensics and understanding of file integrity checks.
+
+
+### [Project 8 Link: Wireshark File Extraction](https://mycyberstudies.blogspot.com/2024/01/extracting-data-from-wireshark.html)
+• Analyzed a provided pcap file containing a fragmented network-transferred file. 
+
+• Successfully located, extracted, and identified the file, demonstrating strong skills in network forensics and data extraction.
+
+### [Project 9 Link: Wireshark File Extraction](https://mycyberstudies.blogspot.com/2024/02/http-transfer.html)
+• Conducted a lab exercise where I sent a file through HTTP and captured the packets using Wireshark while downloading the file on another machine.
+
+• Hosted a Python HTTP server and accessed it on a Windows machine to download the file.
+
+• Successfully located and downloaded the file from the captured packets in Wireshark, demonstrating my skills in network packet analysis, HTTP server hosting, and file extraction from network traffic.
+
+
+
