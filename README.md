@@ -21,6 +21,10 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 
 # CERTIFICATES
 * * *
+• [Burp Suite Certified Practitioner(BSCP)](https://portswigger.net/web-security/e/c/951d203e41b1c399)
+
+• Actively working towards completing my OSCP certification
+
 • Google Cybersecurity
 
 • Google Technical Support Fundamentals
@@ -29,12 +33,26 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 
 • ISO/IEC 27001 Information Security Management Systems Awareness On-demand Training Course
 
-• Actively working towards completing my Security+ certification
-
 # PROFESSIONAL EXPERIENCE
 * * *
+### Packetlabs
+Offensive Security Analyst                                                                    05/2024 - Present|Missssauga,Canada
+
+• Conducted web application security re-testing using tools like Burp Suite to identify vulnerabilities and enhance website security.
+
+• Performed internal and external infrastructure retests to verify the successful remediation of previously identified vulnerabilities.
+
+• Performed vulnerability assessments on internal and external targets using Qualys to identify and manage security risks.
+
+• Handlde sensitive and confidential information with strict adherence to company policies and industry standards.
+
+• Created detailed reports documenting findings from vulnerability scans, penetration tests, and retests, ensuring compliance with Packetlabs’ guidelines.
+
+• Communicated findings and remediation steps clearly to clients, enhancing their security measures based on the insights provided.
+
+
 ### Centre for Applied AI (Sheridan College CMI)
-Student Researcher                                                                     01/2024 - Present|Oakville,Canada
+Student Researcher                                                                     01/2024 - 05/2024|Oakville,Canada
 
 • Partnered with fellow researchers on a research project titled “Objective Method for Diagnosis of Chronic Pain” in collaboration with Karmy Clinic
 
@@ -107,6 +125,12 @@ Coordinator                                                                     
 • Active Directory Administration on Server 2019: Provisioning, Maintaining, and Deprovisioning user accounts
 
 • Implementation and maintenance of Windows DNS and DHCP services
+
+• Conducted Active Directory attacks including LLMNR poisoning and SMB relay to identify vulnerabilities and enhance network defenses.
+
+• Executed pass-the-hash attacks using local administrator credentials extracted from the Security Account Manager (SAM) database to gain unauthorized access to target systems.
+
+• Utilized a range of tools including CrackMapExec, Metasploit, Responder, and the Impacket suite for penetration testing and security analysis tasks.
 
 ### [Project 3 link: Keylogger-Advanced](https://github.com/OrlandoCompC/Keylogger-Advanced)
 • Developed a Python keylogger that captures all keys typed by the user and writes them to a file
