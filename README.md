@@ -38,7 +38,7 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 ### Packetlabs
 Offensive Security Analyst                                                                    05/2024 - Present|Missssauga,Canada
 
-• Conducted web application security re-testing using tools like Burp Suite to identify vulnerabilities and enhance website security.
+• Conducted web application security retests using tools like Burp Suite to identify vulnerabilities and enhance website security.
 
 • Performed internal and external infrastructure retests to verify the successful remediation of previously identified vulnerabilities.
 
