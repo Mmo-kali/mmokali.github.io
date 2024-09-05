@@ -36,7 +36,7 @@ As a passionate Cyber Security student, I thrive as a dedicated team player, dem
 # PROFESSIONAL EXPERIENCE
 * * *
 ### Packetlabs
-Offensive Security Analyst                                                                    05/2024 - Present|Missssauga,Canada
+Jr. Penetration Tester                                                                   05/2024 - Present|Missssauga,Canada
 
 • Conducted web application security retests using tools like Burp Suite to identify vulnerabilities and enhance website security.
 
@@ -44,7 +44,7 @@ Offensive Security Analyst                                                      
 
 • Performed vulnerability assessments on internal and external targets using Qualys to identify and manage security risks.
 
-• Handlde sensitive and confidential information with strict adherence to company policies and industry standards.
+• Handled sensitive and confidential information with strict adherence to company policies and industry standards.
 
 • Created detailed reports documenting findings from vulnerability scans, penetration tests, and retests, ensuring compliance with Packetlabs’ guidelines.
 
