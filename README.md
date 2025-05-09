@@ -1,9 +1,8 @@
 # Welcome to my CyberSecurity Portfolio
 
-### Email: companioniorlando@gmail.com
+### Email: michaelnolk.kali@gmail.com
 ### Location: Toronto, Canada
-### Phone: 647-648-9773
-### Linkedin: www.linkedin.com/in/orlando-companioni
+### Linkedin: www.linkedin.com/in/michael-n
 
 # PROFILE
 * * *
